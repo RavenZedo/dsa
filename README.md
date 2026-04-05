@@ -19,9 +19,9 @@ This repo contains my solutions to various DSA problems, including LeetCode ques
 DSA-NOTES/
 │
 ├── LeetCode/
-│   ├── TWO _SUM _I.py
-│   ├── TWO _SUM _II.py
-│   ├── MOVE_ZEROS.py
+│   ├── two_sum_i.py
+│   ├── two_sum_ii.py
+│   ├── move_zeros.py
 │
 ├── Arrays/
 │   ├── check_sorted.py
