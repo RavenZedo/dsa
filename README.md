@@ -21,7 +21,7 @@ DSA-NOTES/
 ├── LeetCode/
 │   ├── TWO _SUM _I.py
 │   ├── TWO _SUM _II.py
-│   ├──MOVE_ZEROS.py
+│   ├── MOVE_ZEROS.py
 │
 ├── Arrays/
 │   ├── check_sorted.py
