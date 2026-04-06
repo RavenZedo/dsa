@@ -30,6 +30,7 @@ DSA-NOTES/
 │   ├── rotate_array_by_1.py
 │   ├── second_largest.py
 │   ├── rotate_array_by_kth.py
+│   ├── linear_search.py
 │
 ├── Sorting/
 │   ├── bubble_sortA.py
