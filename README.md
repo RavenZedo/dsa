@@ -22,6 +22,7 @@ DSA-NOTES/
 │   ├── two_sum_i.py
 │   ├── two_sum_ii.py
 │   ├── move_zeros.py
+│   ├── rotate_array.py
 │
 ├── Arrays/
 │   ├── check_sorted.py
