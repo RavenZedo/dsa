@@ -1,4 +1,5 @@
 #longest consecutive sequence in an array
+#leetcode 128
 nums = [100, 4, 200, 1, 3, 2]
 my_set = set()
 n=len(nums)
